@@ -18,6 +18,7 @@
 
 - Software Development
 - Front end Development
+- Backend Development
 - UX/UI Design
 ### ⚙️ Tech Stack
 
